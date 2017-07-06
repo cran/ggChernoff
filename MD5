@@ -1,0 +1,12 @@
+995b3551d99b717a84bd7e6222ee5f70 *DESCRIPTION
+3edf77e09c48cd3c4790a6aa4ef8faee *LICENSE
+3554d0a13790bc0e92bd6033fea8ce99 *NAMESPACE
+d528f1969f7c1c568ab682c0d80ba2e1 *NEWS.md
+0ec87d4585ac58991846b9a6bb020102 *R/chernoffGrob.R
+491636b594e771b81863b8e2e2827ad4 *R/geom_chernoff.R
+c5f297cecdf198beebca259859b72dbe *R/scale_brow.R
+c8b5c3cfe73294edfa4032fd4bd35772 *R/scale_smile.R
+37855302c019e17fcf4c3688108529ef *man/chernoffGrob.Rd
+5106c24f7ebb85295ad302949de3c7f6 *man/geom_chernoff.Rd
+0d0fde3f9cd8627e1aeb11b712505af3 *man/scale_brow.Rd
+0df56c81737fc10672aa7d5a2c7801ce *man/scale_smile.Rd
